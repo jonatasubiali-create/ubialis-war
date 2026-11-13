@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ubialigames.ubialiswar",
+    "sha256_cert_fingerprints": [
+      "89:9C:49:D0:93:9F:59:CA:A8:70:CD:26:B3:23:F2:19:12:7C:DF:05:12:0A:AF:43:C0:C9:27:88:D8:E5:14:C4"
+    ]
+  }
+}]
