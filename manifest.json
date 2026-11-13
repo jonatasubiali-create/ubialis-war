@@ -1,0 +1,31 @@
+{
+  "name": "Ubiali's WAR - River Raid Atari 2600 Tribute",
+  "short_name": "UbialisWAR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060608",
+  "theme_color": "#060608",
+  "description": "Recriação clássica em pixel art do lendário River Raid (1982) com áudio chiptune anos 80, torpedos pesados, evolução de tiros e 6 climas dinâmicos.",
+  "categories": ["games", "arcade", "retro"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
+
